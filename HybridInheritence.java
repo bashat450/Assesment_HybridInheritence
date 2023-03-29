@@ -31,17 +31,6 @@ class LargestNumber extends TakingInput {
 }
 class Fibonacci extends TakingInput{
 	public void fibo() {
-		/**
-			int n,i,a1=0,b=0,c=1;
-			n=a[0];
-			System.out.println("The Fibonacci series is : ");
-			for(i=1;i<=n;i++) {
-				a1=b;
-				b=c;
-				c=a1+b;
-				System.out.println(a+" ");
-			}
-			**/
 		//sc.close();
 	    a[0] = 0;
 	    a[1] = 1;
